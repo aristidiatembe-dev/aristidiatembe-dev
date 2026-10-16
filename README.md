@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I'm Aristidia! 👋
 
-<!--
-**aristidiatembe-dev/aristidiatembe-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science student passionate about technology and software development.
 
-Here are some ideas to get you started:
+🌱 Currently learning **Java, Flutter, and Dart**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Building projects to strengthen my programming skills and gain practical experience.
+
+🚀 Interested in learning new technologies, solving problems, and turning ideas into practical solutions.
+
+## 🛠️ Technologies I'm Learning
+
+- Java
+- Dart
+- Flutter
+- Git & GitHub
+
+## 📌 Projects
+
+- **BMI Calculator** — A Flutter application for calculating Body Mass Index.
+- **Konexion** — A digital xitique management system developed with Java.
+
+## 📫 Connect with Me
+
+- GitHub: [@aristidiatembe-dev](https://github.com/aristidiatembe-dev)
+
+---
+
+*Learning, building, and improving one project at a time.* ✨
