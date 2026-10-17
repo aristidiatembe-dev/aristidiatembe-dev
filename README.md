@@ -30,10 +30,15 @@ A Flutter application that calculates Body Mass Index based on weight and height
 
 [View Repository](https://github.com/aristidiatembe-dev/bmi-calculator)
 
-### 💜 Konexion
-A digital xitique management system developed as an object-oriented programming project, focused on organizing groups, contributions, and payment cycles.
+*Personal project — currently under development.*
 
-*Developed collaboratively as part of my programming studies.*
+### 💜 Konexion
+
+A digital xitique management system developed collaboratively as part of an Object-Oriented Programming project. It focuses on managing groups, contributions, and payment cycles.
+
+[View Repository](https://github.com/luisnhabangue/iXitique)
+
+*Team project — currently under development.*
 
 ## 📊 GitHub Statistics
 
