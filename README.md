@@ -19,20 +19,32 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,flutter,dart,mysql,git,github&theme=dark" alt="Technologies and tools" />
+**💻 Programming & Development**
+
+<img src="https://skillicons.dev/icons?i=java,flutter,dart,mysql,hibernate,maven,git,github&theme=dark" alt="Programming and development tools" />
+
+*Also working with JavaFX and JPA.*
+
+**🎨 Design & UI/UX**
+
+<img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="Figma" />
+
+[![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)](https://www.canva.com/)
+
+*UI/UX Design · Prototyping · Graphic Design*
 
 </div>
 
 ## 🚀 Featured Projects
 
-### 💙 BMI Calculator
+### BMI Calculator
 A Flutter application that calculates Body Mass Index based on weight and height.
 
 [View Repository](https://github.com/aristidiatembe-dev/bmi-calculator)
 
 *Personal project — currently under development.*
 
-### 💜 Konexion
+### Konexion
 
 A digital xitique management system developed collaboratively as part of an Object-Oriented Programming project. It focuses on managing groups, contributions, and payment cycles.
 
@@ -50,19 +62,22 @@ A digital xitique management system developed collaboratively as part of an Obje
 
 </div>
 
-## 📈 My Contribution Graph
+## 📫 Connect with Me
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aristidiatembe-dev&bg_color=1a1b27&color=9B8CFF&line=00C9FF&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
-
-</div>
+<p align="center">
+  <a href="mailto:aristidiatembe0@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-6A5ACD?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/aristidia-tembe-361900303/">
+    <img src="https://img.shields.io/badge/LinkedIn-00A8E8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
 ---
 
 <div align="center">
 
-### 💫 *Learning, building, and improving one project at a time.*
+###                                     *Learning, building, and improving one project at a time.*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:6A5ACD&height=100&section=footer" width="100%" />
 
