@@ -10,10 +10,10 @@
 
 ## 👩🏽‍💻 About Me
 
-- 🎓 Computer Science student passionate about technology and software development.
-- 🌱 Currently learning **Java, Flutter, and Dart**.
-- 💡 Interested in solving problems and turning ideas into practical solutions.
-- 🚀 Learning by building projects and improving my skills one step at a time.
+-  Computer Science student passionate about technology and software development.
+-  Currently learning **Java, Flutter, and Dart**.
+-  Interested in solving problems and turning ideas into practical solutions.
+-  Learning by building projects and improving my skills one step at a time.
 
 ## 🛠️ Technologies & Tools
 
@@ -38,7 +38,7 @@
 ## 🚀 Featured Projects
 
 ### BMI Calculator
-A Flutter application that calculates Body Mass Index based on weight and height.
+A Flutter application that calculates Body Mass Index (BMI) based on a user's weight and height. Built with Dart and Flutter, the app features a simple, user-friendly interface designed to make BMI calculations quick and accessible. 
 
 [View Repository](https://github.com/aristidiatembe-dev/bmi-calculator)
 
@@ -46,7 +46,7 @@ A Flutter application that calculates Body Mass Index based on weight and height
 
 ### Konexion
 
-A digital xitique management system developed collaboratively as part of an Object-Oriented Programming project. It focuses on managing groups, contributions, and payment cycles.
+A digital platform for managing rotating savings groups, a common practice in Mozambique, my home country, popularly known as *Xitique*. The platform helps members organize contributions, manage savings cycles, track payouts, and monitor group activities.
 
 [View Repository](https://github.com/luisnhabangue/iXitique)
 
