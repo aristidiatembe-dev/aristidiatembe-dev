@@ -40,7 +40,7 @@
 ### BMI Calculator
 A Flutter application that calculates Body Mass Index (BMI) based on a user's weight and height. Built with Dart and Flutter, the app features a simple, user-friendly interface designed to make BMI calculations quick and accessible. 
 
-[View Repository](https://github.com/aristidiatembe-dev/bmi-calculator)
+[![View Repository](https://img.shields.io/badge/View_Repository-00C9FF?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/aristidiatembe-dev/bmi-calculator)
 
 *Personal project — currently under development.*
 
@@ -48,7 +48,7 @@ A Flutter application that calculates Body Mass Index (BMI) based on a user's we
 
 A digital platform for managing rotating savings groups, a common practice in Mozambique, my home country, popularly known as *Xitique*. The platform helps members organize contributions, manage savings cycles, track payouts, and monitor group activities.
 
-[View Repository](https://github.com/luisnhabangue/iXitique)
+[![View Repository](https://img.shields.io/badge/View_Repository-7C3AED?style=for-the-badge&logo=github&logoColor=F8FAFC)](https://github.com/luisnhabangue/iXitique)
 
 *Team project — currently under development.*
 
